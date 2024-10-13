@@ -5,7 +5,7 @@ header-img: "img/2.jpg"
 email: leekunheng88@gmail.com
 description: "这可以是我的日记、随笔以及一些想法的分享。Let's think."
 keyword: "EGG, MyAnata Blog, 僕光的博客, lee,  iOS, Apple, iPhone,ipad"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+url: "http://https://kobeebry-ant.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/KobeeBry-ant/KobeeBry-ant.github.io.git" # you code repository
 
