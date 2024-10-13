@@ -1,18 +1,18 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+title: MyAnata Blog
+SEOTitle: 僕光的博客 | MyAnata Blog
+header-img: "C:\Users\dell\Desktop\2.jpg"
+email: leekunheng88@gmail.com
+description: "这可以是我的日记、随笔以及一些想法的分享。Let's think."
+keyword: "EGG, MyAnata Blog, 僕光的博客, lee,  iOS, Apple, iPhone,ipad"
 url: "http://qiubaiying.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/KobeeBry-ant/KobeeBry-ant.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "No description is the best description."
+sidebar-avatar: /img/3.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
