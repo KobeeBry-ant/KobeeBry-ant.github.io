@@ -1,0 +1,14 @@
+---
+layout:     post   				    # 使用的布局（不需要改）
+title:      My First Blog 				# 标题 
+subtitle:   My Blog,My world. #副标题
+date:       2024-10-13 				# 时间
+author:     僕光 						# 作者
+header-img:https://s2.loli.net/2024/10/13/I5rNb3dBhJMfFGv.jpg  	#这篇文章标题背景图片
+catalog: true 						# 是否归档
+tags:								#标签
+    - 生活
+---
+
+## Hey
+>如你所见这是我的第一篇博客。
